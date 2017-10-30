@@ -1,0 +1,33 @@
+[
+   {
+      "id_aluno": 20,
+      "rodada": 1,
+      "id_assunto": 1,
+      "bateria_de_atividades": 5,
+      "respostas": [
+                     { "id_atividade": 11,
+                       "resposta_aluno": "certa",
+                       "alternativa_marcada": 2
+                      },
+                      { "id_atividade": 7,
+                        "resposta_aluno": "certa",
+                        "alternativa_marcada": 5
+                      },
+
+                      { "id_atividade": 8,
+                        "resposta_aluno": "errada",
+                        "alternativa_marcada": 4
+                      },
+
+                      { "id_atividade": 9,
+                        "resposta_aluno": "errada",
+                        "alternativa_marcada": 3
+                      },
+
+                     { "id_atividade": 10,
+                        "resposta_aluno": "certa",
+                        "alternativa_marcada": 2
+                      }
+                  ]
+    }
+]

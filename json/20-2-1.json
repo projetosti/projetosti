@@ -1,0 +1,54 @@
+[
+    {
+        "id_atividade": "10",
+        "id_assunto": "2",
+        "desc_atividade": "nn",
+        "atividade": [
+            {
+                "imagem_atividade": "http:\/\/localhost\/tcc_7\/transparente.png",
+                "tamanho": 1
+            }
+        ],
+        "alternativas": [
+            {
+                "alternativa1": "nn",
+                "imagem_alternativa": "http:\/\/localhost\/tcc_7\/transparente.png",
+                "tamanho": 1,
+                "imagem_alternativa1": "http:\/\/localhost\/tcc_7\/",
+                "justificativa_erro_alternativa1": "nn"
+            },
+            {
+                "alternativa2": "nn",
+                "imagem_alternativa": "http:\/\/localhost\/tcc_7\/transparente.png",
+                "tamanho": 1,
+                "imagem_alternativa2": "http:\/\/localhost\/tcc_7\/",
+                "justificativa_erro_alternativa2": "nn"
+            },
+            {
+                "alternativa3": "nn",
+                "imagem_alternativa": "http:\/\/localhost\/tcc_7\/transparente.png",
+                "tamanho": 1,
+                "imagem_alternativa3": "http:\/\/localhost\/tcc_7\/",
+                "justificativa_erro_alternativa3": "nn"
+            },
+            {
+                "alternativa4": "nn",
+                "imagem_alternativa": "http:\/\/localhost\/tcc_7\/transparente.png",
+                "tamanho": 1,
+                "imagem_alternativa4": "http:\/\/localhost\/tcc_7\/",
+                "justificativa_erro_alternativa4": "nn"
+            },
+            {
+                "alternativa5": "jj",
+                "imagem_alternativa": "http:\/\/localhost\/tcc_7\/transparente.png",
+                "tamanho": 1,
+                "imagem_alternativa5": "http:\/\/localhost\/tcc_7\/",
+                "justificativa_erro_alternativa5": ""
+            }
+        ],
+        "alternativa_correta": "e",
+        "rodada": "1",
+        "assunto": "2 - Estrutura Condicional",
+        "data_de_cadastro": "2017-10-22 20:35:42"
+    }
+]

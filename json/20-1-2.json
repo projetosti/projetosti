@@ -1,0 +1,54 @@
+[
+    {
+        "id_atividade": "7",
+        "id_assunto": "1",
+        "desc_atividade": "Sabendo que A=3, B=7 e C=4, assinale a alternativa correta se as express\u00f5es abaixo ( verdadeiras ou falsas).",
+        "atividade": [
+            {
+                "imagem_atividade": "http:\/\/localhost\/tcc_7\/imagens\/8af85192acf8f92968bfe18b46d239b1.png",
+                "tamanho": 100
+            }
+        ],
+        "alternativas": [
+            {
+                "alternativa": "a)V\r\nb)V\r\nc)V\r\nd)F\r\ne)F",
+                "imagem_alternativa": "http:\/\/localhost\/tcc_7\/transparente.png",
+                "tamanho": 1,
+                "imagem_alternativa1": "http:\/\/localhost\/tcc_7\/",
+                "justificativa_erro_alternativa1": "O resultado da express\u00e3o (A+C)> B \u00e9 FALSO. \r\n(A+C)>B ou (3+4)>7 pois o resultado da soma \u00e9 7 e o valor de B \u00e9 7,logo, 7=7. "
+            },
+            {
+                "alternativa": "a)F\r\nb)V\r\nc)F\r\nd)F\r\ne)F\r\n",
+                "imagem_alternativa": "http:\/\/localhost\/tcc_7\/transparente.png",
+                "tamanho": 1,
+                "imagem_alternativa2": "http:\/\/localhost\/tcc_7\/",
+                "justificativa_erro_alternativa2": "O resultado da express\u00e3o C = (B-A)\u00e9 VERDADEIRO. \r\n4 = (7-3) pois resultado da subtra\u00e7\u00e3o \u00e9 4 e o valor de C \u00e9 4,logo 4=4. "
+            },
+            {
+                "alternativa": "a)F\r\nb)V\r\nc)V\r\nd)F\r\ne)F",
+                "imagem_alternativa": "http:\/\/localhost\/tcc_7\/transparente.png",
+                "tamanho": 1,
+                "imagem_alternativa3": "http:\/\/localhost\/tcc_7\/",
+                "justificativa_erro_alternativa3": ""
+            },
+            {
+                "alternativa": "a)F\r\nb)V\r\nc)V\r\nd)V\r\ne)F",
+                "imagem_alternativa": "http:\/\/localhost\/tcc_7\/transparente.png",
+                "tamanho": 1,
+                "imagem_alternativa4": "http:\/\/localhost\/tcc_7\/",
+                "justificativa_erro_alternativa4": "O resultado da express\u00e3o (B+A)<=C \u00e9 FALSO. \r\n(7+3)<=4 resultado da soma \u00e9 10 e o valor de C \u00e9 4,logo 10 \u00e9 MAIOR que 4. "
+            },
+            {
+                "alternativa": "a)F\r\nb)V\r\nc)V\r\nd)F\r\ne)V",
+                "imagem_alternativa": "http:\/\/localhost\/tcc_7\/transparente.png",
+                "tamanho": 1,
+                "imagem_alternativa5": "http:\/\/localhost\/tcc_7\/",
+                "justificativa_erro_alternativa5": "O resultado da express\u00e3o (C+A)> B \u00e9 FALSO. \r\n(A+C)>B ou (4+3)>7, pois o resultado da soma \u00e9 7 e o valor de B \u00e9 7,logo, 7=7. "
+            }
+        ],
+        "alternativa_correta": "c",
+        "rodada": "2",
+        "assunto": "1 - Vari\u00e1veis e Constantes",
+        "data_de_cadastro": "2017-10-20 12:52:08"
+    }
+]
